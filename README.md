@@ -1,13 +1,11 @@
 
 # Hi! 👋
 
-I'm Long, a passionate and innately curious **Front-end Engineer** from VietNam 🇮🇹, with a dedication for interaction and user experience. I enjoy taking on new challenges, discover emerging technologies, explore innovative solutions.
-
-In these years I worked for Gucci, Fendi, Ferrari, Lavazza, Ducati, Nike, Ferrero, Mutti, Ferrarelle, Seat, Bottega Veneta, TIM, Tod’s, Whirlpool.
+I'm Long, a passionate and innately curious **Front-end Engineer** from VietNam , with a dedication for interaction and user experience. I enjoy taking on new challenges, discover emerging technologies, explore innovative solutions.
 
 
-## 🦸🏻‍♂️ Projects
-
+## 🦸🏻‍♂️ Projects | Self-study
+✰ [Gbox Studio 2020](https://longngo0617.github.io/Gbox/)
 
 
 
